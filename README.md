@@ -120,7 +120,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.-7\8
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -130,4 +130,5 @@ Cinefalls is a sleek, immersive cinema booking platform built with React and Tai
 
 ---
 
-🎬 **Thank you for visiting Cinefalls!** 🍿
+**Thank you!**
+Maintained and developed by smd-space
