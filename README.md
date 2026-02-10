@@ -1,4 +1,4 @@
-# 🎬 Cinefalls - Entertainment Cinema
+# 🎬 Cinefalls - AK Entertainments
 ---
 ## 🌟 Overview
 
@@ -17,10 +17,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
-
-## 🎥 About Cinefalls
-
-Cinefalls is an enhanced version of a BookMyShow clone with a **complete UI/UX overhaul** using glassmorphic design principles. It delivers a premium visual experience for browsing movies, booking tickets, and exploring entertainment events.
 
 ### ✨ Design Philosophy
 
@@ -112,23 +108,14 @@ The app runs locally at **[http://localhost:3000](http://localhost:3000)**.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve Cinefalls.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 💬 Description
-
-Cinefalls is a sleek, immersive cinema booking platform built with React and Tailwind CSS, designed to give users a stunning glassmorphic experience for browsing and booking movies and events effortlessly.
-
----
 
 **Thank you!**
-Maintained and developed by smd-space
+Maintained and developed by Thousifibrahim
+
+## 🤝 Let's Connect
+
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/Thousifibrahim)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:contact.thousif+github@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/thousif-ibrahim-29050421b)
+
+
