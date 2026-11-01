@@ -1,5 +1,7 @@
 # CineFalls
 
+![stack: JavaScript](https://img.shields.io/badge/stack-JavaScript-F7DF1E) ![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6) ![stack: HTML](https://img.shields.io/badge/stack-HTML-E34F26) ![license: MIT](https://img.shields.io/badge/license-MIT-2ea44f)
+
 Theater Ticket Management Application for Cine-falls (Name altered for privacy). Initial working setup
 
 ## Overview
